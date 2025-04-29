@@ -1,0 +1,5 @@
+.venv/
+audio_segments/
+cloud_sim/
+
+*.log
