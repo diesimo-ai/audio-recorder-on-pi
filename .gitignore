@@ -2,4 +2,5 @@
 audio_segments/
 cloud_sim/
 
-*.log
+# Allow the log to be pushed for demo
+# *.log
