@@ -1,0 +1,9 @@
+2025-04-29 15:13:02,055 - __main__ - INFO - Simulation d'enregistrement...
+2025-04-29 15:13:02,208 - __main__ - INFO - Fichier simulé : cloud_sim/segment_1.wav
+2025-04-29 15:13:02,211 - root - INFO - Segment 2 enregistré avec succès
+2025-04-29 15:13:04,451 - __main__ - INFO - Simulation d'enregistrement...
+2025-04-29 15:13:04,563 - __main__ - INFO - Fichier simulé : cloud_sim/segment_2.wav
+2025-04-29 15:13:04,565 - root - INFO - Segment 3 enregistré avec succès
+2025-04-29 15:13:06,857 - __main__ - INFO - Simulation d'enregistrement...
+2025-04-29 15:13:06,952 - __main__ - INFO - Fichier simulé : cloud_sim/segment_3.wav
+2025-04-29 15:13:06,953 - root - INFO - Segment 4 enregistré avec succès
